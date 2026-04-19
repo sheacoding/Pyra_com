@@ -160,7 +160,7 @@ const translations: Record<Language, Record<string, string>> = {
     'footer.docs': '使用文档',
     'footer.issues': '问题反馈',
     'footer.contact': '联系我们',
-    'footer.copyright': '© 2024-2025 Eric (谢峰). MIT 协议开源.',
+    'footer.copyright': '© 2024-2025 Eric (晓峰). MIT 协议开源.',
   }
 };
 
